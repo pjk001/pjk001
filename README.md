@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 # 💫 About Me:
 🔭 I’m currently a Ling & Comp Sci major at UCLA looking to get into fullstack development.<br>👯 I’m looking to collaborate with a team and company whose mission I resonate with.<br>🤝 I’m seeking every and any internship in software engineering that values growth on site.<br>🌱 I’m currently learning fullstack development through the University of Helsinki.<br>⚡ One thing that motivates me the most at work is when there is 100% collaboration and a space where every idea is equally advocated for.
 
